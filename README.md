@@ -3,8 +3,6 @@
 ![Modern C++ template][github-sub-title:img]
 </div>
 
-![头像](image/头像.jpg)
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Elaina2003
 
 <!-- Header with animated shark -->
@@ -26,8 +24,8 @@
 <!-- Profile Image with Glow Effect -->
 <div align="center">
   <img 
-    src="image/images.jpg" 
-    width="500"
+    src="image/头像.jpg" 
+    width="800"
     alt="profile image"
     align="center"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
