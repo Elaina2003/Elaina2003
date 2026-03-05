@@ -3,8 +3,21 @@
 ![Modern C++ template][github-sub-title:img]
 </div>
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Elaina2003
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Elaina2003.
 
+<!-- Tech Stack with Wave Animation -->
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+  技术之浪 | Tech Waves
+</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-深海蓝-00A1D6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-海藻绿-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-珊瑚色-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-海蛇蓝-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-金沙色-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
 <!-- Fancy Social Links -->
 <div align="center">
@@ -25,21 +38,6 @@
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
   />
 </div>
-
-<!-- Tech Stack with Wave Animation -->
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  技术之浪 | Tech Waves
-</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-深海蓝-00A1D6?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-海藻绿-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-珊瑚色-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-海蛇蓝-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-金沙色-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
 
 
 <!-- Wave Footer -->
