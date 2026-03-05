@@ -1,14 +1,18 @@
+<div id="title" align=center>
+  
+![Modern C++ template][github-sub-title:img]
+</div>
+
+![头像](image/头像.jpg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Elaina2003
+
 <!-- Header with animated shark -->
 <p align="center">
   <a href="https://github.com/Sharky-shark-Blue">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Elaina2003+✨" alt="Typing SVG" />
   </a>
 </p>
-
-<!-- Animated welcome message -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=F7D665&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+Ocean+of+Code;Where+Creativity+Flows+Like+Waves;Let's+Dive+into+Something+Amazing!" alt="Typing SVG" />
-</div>
 
 <!-- Fancy Social Links -->
 <div align="center">
@@ -43,6 +47,8 @@
   <img src="https://img.shields.io/badge/Python-海蛇蓝-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-金沙色-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+
 
 <!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A1D6&height=120&section=footer"/>
