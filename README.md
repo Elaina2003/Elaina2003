@@ -5,12 +5,6 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Elaina2003
 
-<!-- Header with animated shark -->
-<p align="center">
-  <a href="https://github.com/Sharky-shark-Blue">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Elaina2003+✨" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- Fancy Social Links -->
 <div align="center">
@@ -25,7 +19,7 @@
 <div align="center">
   <img 
     src="image/头像.jpg" 
-    width="800"
+    width="500"
     alt="profile image"
     align="center"
     style="border-radius: 50%; box-shadow: 0 0 20px #00A1D6;"
